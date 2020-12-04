@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemButBetter", "SolarSystemButBetter\SolarSystemButBetter.csproj", "{93096502-B223-487B-8B74-510F9636655D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadPlanetData", "ReadPlanetData\ReadPlanetData.csproj", "{CC604652-871A-4850-81DC-D3820ADFF3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93096502-B223-487B-8B74-510F9636655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93096502-B223-487B-8B74-510F9636655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93096502-B223-487B-8B74-510F9636655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93096502-B223-487B-8B74-510F9636655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC604652-871A-4850-81DC-D3820ADFF3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC604652-871A-4850-81DC-D3820ADFF3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC604652-871A-4850-81DC-D3820ADFF3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC604652-871A-4850-81DC-D3820ADFF3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C096DA5-4022-48CF-8C53-A07FE9A9538F}
+	EndGlobalSection
+EndGlobal

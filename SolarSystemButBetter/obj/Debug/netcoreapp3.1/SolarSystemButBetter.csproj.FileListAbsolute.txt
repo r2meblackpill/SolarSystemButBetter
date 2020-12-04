@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.exe
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.deps.json
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.runtimeconfig.json
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.dll
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\bin\Debug\netcoreapp3.1\SolarSystemButBetter.pdb
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.dll
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.pdb
+C:\Users\opilane\source\repos\SolarSystemButBetter\SolarSystemButBetter\obj\Debug\netcoreapp3.1\SolarSystemButBetter.genruntimeconfig.cache
